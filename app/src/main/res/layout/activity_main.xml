@@ -126,7 +126,7 @@
         android:layout_width="match_parent"
         android:layout_height="3dp"
         android:max="100"
-        android:progressDrawable="@drawable/bg_address_bar"
+        android:progressTint="?attr/colorPrimary"
         android:visibility="gone"
         app:layout_constraintTop_toBottomOf="@id/topBarContainer"
         tools:progress="50"
