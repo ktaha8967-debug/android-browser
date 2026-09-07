@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Auto Claimer</string>
+    <string name="search_or_type_url">Enter Website URL or Search...</string>
+    <string name="tabs">Accounts / Tabs</string>
+    <string name="new_tab">New Account Tab</string>
+    <string name="close_tab">Close Tab</string>
+    <string name="close_all_tabs">Close All Tabs</string>
+    
+    <!-- Auto Claimer Specific Strings -->
+    <string name="auto_claim">⚡ Auto Claimer</string>
+    <string name="claim_all">CLAIM ALL ACCOUNTS</string>
+    <string name="paste_and_redeem">⚡ Paste &amp; Auto-Redeem All</string>
+    <string name="paste_only">📋 Paste Code Only</string>
+    <string name="click_redeem_only">🎯 Click Redeem Buttons</string>
+    <string name="reload_all">🔄 Reload All Tabs</string>
+    <string name="enter_code_hint">Paste Gift Code / Redeem Code here...</string>
+    <string name="paste_from_clipboard">📋 Paste Clipboard</string>
+    <string name="auto_click_submit">Auto-click "Redeem / Claim" button after paste</string>
+    <string name="auto_claim_success">⚡ Claimed on %1$d account(s)!</string>
+    <string name="select_accounts">Select Target Accounts</string>
+    <string name="all_accounts">All Accounts</string>
+    <string name="current_account">Current Tab Only</string>
+    <string name="custom_accounts">Selected Accounts</string>
+
+    <string name="settings">Settings</string>
+    <string name="proxies">Proxy Profiles</string>
+    <string name="add_proxy">Add Proxy</string>
+    <string name="edit_proxy">Edit Proxy</string>
+    <string name="delete">Delete</string>
+    <string name="save">Save</string>
+    <string name="test_proxy">Test Proxy</string>
+    <string name="proxy_host">Host / IP</string>
+    <string name="proxy_port">Port</string>
+    <string name="proxy_user">Username (Optional)</string>
+    <string name="proxy_pass">Password (Optional)</string>
+    <string name="proxy_name">Profile Name</string>
+    <string name="assigned_tab">Assigned to Tab</string>
+    <string name="no_tab_assigned">None (Global / Unassigned)</string>
+    <string name="search_engine">Search Engine</string>
+    <string name="theme">Theme</string>
+    <string name="accent_color">Accent Color</string>
+    <string name="toolbar_position">Toolbar Position</string>
+    <string name="toolbar_top">Top</string>
+    <string name="toolbar_bottom">Bottom</string>
+    <string name="toolbar_visibility">Show Bottom Toolbar</string>
+    <string name="compact_mode">Compact Mode</string>
+    <string name="persistence_desc">Login sessions and cookies are safely stored so your accounts stay logged in.</string>
+    <string name="start_page_tagline">Multi-Account Instant Gift Code &amp; Promo Auto-Claimer</string>
+    <string name="download_started">Download started...</string>
+    <string name="download_complete">Download completed</string>
+    <string name="ssl_warning_title">Security Warning (SSL Error)</string>
+    <string name="ssl_warning_msg">The security certificate of this website is invalid.</string>
+    <string name="leave_page">Leave Site</string>
+    <string name="proceed_anyway">Proceed (Unsafe)</string>
+    <string name="clear">Clear</string>
+    <string name="cancel">Cancel</string>
+    <string name="ok">OK</string>
+</resources>

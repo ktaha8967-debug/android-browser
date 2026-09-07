@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="toolbar_height">56dp</dimen>
+    <dimen name="address_bar_height">44dp</dimen>
+    <dimen name="bottom_bar_height">56dp</dimen>
+    <dimen name="tab_card_width">160dp</dimen>
+    <dimen name="tab_card_height">190dp</dimen>
+    <dimen name="corner_radius_small">8dp</dimen>
+    <dimen name="corner_radius_medium">12dp</dimen>
+    <dimen name="corner_radius_large">24dp</dimen>
+</resources>
